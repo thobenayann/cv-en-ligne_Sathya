@@ -21,12 +21,20 @@
 /* vp */
 
 .vp-content {
-    padding-top: 50px;
-
+    font-size: 0.2rem;
+    padding: 10px;
+    max-width: 300px;
+    margin-left: 2rem;
 }
 
 .vp-content h1 {
     font-size: 2rem;
+}
+
+.vp-content p {
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    line-height: 1.9em;
 }
 
 /* features */

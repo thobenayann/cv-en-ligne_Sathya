@@ -173,8 +173,8 @@ a {
 /* vp */
 
 .vp {
-    min-height: 800px;
-    background: url(../images/0054_Sathya_Portraits-2019_-Photographe_Tony_Maillard-Nantes-Droits_reserves-55_WEB_edited\ reduce.jpg) center center;
+    min-height: 1100px;
+    background: url(../images/0054_Sathya_Portraits-2019_-Photographe_Tony_Maillard-Nantes-Droits_reserves-55_WEB_edited\ reduce.jpg) center center/cover;
     background-size: cover;
     text-align: center;
     box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
@@ -183,10 +183,10 @@ a {
 .vp-content {
     max-width: 600px;
     padding: 20px;
-    padding-top: 190px;
+    padding-top: 340px;
     color: white;
     display: block;
-    margin-left: 28rem;
+    margin-left: 40rem;
 }
 
 .vp-content h1 {
